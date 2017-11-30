@@ -1,7 +1,15 @@
 .navbar {
-  background-color:LightSeaGreen;
+  background-color: LightSeaGreen;
 }
 
-.social{
-max-width: 6rem;
+.social {
+  max-width: 5rem;
+}
+
+.works--pic {
+  max-width: 100%;
+}
+
+header {
+  margin-bottom: 25px;
 }
